@@ -2,7 +2,7 @@
 
 ## 服务器使用说明
 **tensorflow-docker**:
-1. ssh登录
+1. ssh登录，密码`123`
 ``` shell
 ssh -p 222 root@192.168.68.151
 ```
