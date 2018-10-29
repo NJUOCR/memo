@@ -1,12 +1,15 @@
 # 小组备忘录
 
 ## 服务器使用说明
+> 配置`host`:<br />**windows**: C:\Windows\System32\drivers\etc\hosts;<br />**linux**: /etc/hosts <br /> 设置新的主机名 `192.168.68.38 nju-vm`
+
 **tensorflow-docker**:
 1. ssh登录，密码`123`
 ``` shell
-ssh -p 222 root@192.168.68.151
+ssh -p 222 root@nju-vm
 ```
-2. 文件资源web接口 `http://192.168.68.151:1234`
+2. 文件资源web接口 `http://nju-vm:1234`
+3. tensorboard `http://nju-vm:2345
 
 ### 使用时请注意
 1. 代码放在 `/usr/local/src` 目录下
