@@ -39,6 +39,9 @@ ssh -p 222 root@nju-vm
 ### FIXME
 1. 生成文字图片时，文字超出边界
 ## 资源
+
+### 
+1. pytorch开源CRNN https://github.com/Sierkinhane/crnn_chinese_characters_rec
 ### 旋转文字校正 
 1. cnn: https://d4nst.github.io/2017/01/12/image-orientation/
 2. 傅里叶+霍夫变换 http://johnhany.net/2013/11/dft-based-text-rotation-correction/
