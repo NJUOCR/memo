@@ -42,6 +42,8 @@ ssh -p 222 root@nju-vm
 
 ### 
 1. pytorch开源CRNN https://github.com/Sierkinhane/crnn_chinese_characters_rec
+2. 姓名数据库 https://github.com/wainshine/Chinese-Names-Corpus
+3. 汉字数据库 https://www.kaggle.com/ruddfawcett/hanzidb
 ### 旋转文字校正 
 1. cnn: https://d4nst.github.io/2017/01/12/image-orientation/
 2. 傅里叶+霍夫变换 http://johnhany.net/2013/11/dft-based-text-rotation-correction/
